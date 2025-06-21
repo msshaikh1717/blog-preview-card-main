@@ -61,6 +61,7 @@ p {
   cursor: pointer;
   color: hsl(47, 88%, 63%);
 }
+
 .avatar {
   margin: 1.5rem 0;
   display: flex;
